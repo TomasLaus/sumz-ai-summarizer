@@ -1,4 +1,6 @@
 
+<h1>Demo Photo</h1>
+<img src="demo-photo.png" width='50%' />
 
 <h1>Article Summarizer Application</h1>
 This project is a web application that allows you to summarize any article using OpenAI’s GPT model. You can enter the URL of an article or paste the text in the input area and get a concise summary in seconds. You can also copy the summary to your clipboard or save it to your local storage for later use.
